@@ -1,0 +1,23 @@
+# === Python / Backend ===
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.DS_Store
+
+# Videos database
+input/
+output/
+
+# Environment variables
+.env
+.env.*
+
+# IDE/editor config files
+.ropeproject/
+.vscode/
+.idea/
